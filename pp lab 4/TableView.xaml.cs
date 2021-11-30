@@ -104,6 +104,8 @@ namespace pp_lab_4
             startMinute.SelectedIndex = 0;
             endHour.SelectedIndex = 0;
             endMinute.SelectedIndex = 0;
+            startDate.SelectedDate = DateTime.Now;
+            endDate.SelectedDate = DateTime.Now;
         }
         public struct Cars
         {
