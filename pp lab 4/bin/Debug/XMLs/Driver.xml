@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <header>
+    <id>ID</id>
+    <first_name>Имя</first_name>
+    <last_name>Фамилия</last_name>
+    <second_name>Отчество</second_name>
+    <date_of_birth>Дата рождения</date_of_birth>
+    <driving_exp>Опыт вождения</driving_exp>
+  </header>
+  <data>
+    <line>
+      <id>0</id>
+      <first_name>Пётр</first_name>
+      <last_name>Петров</last_name>
+      <second_name>Петрович</second_name>
+      <date_of_birth>07.06.1979 0:00:00</date_of_birth>
+      <driving_exp>12</driving_exp>
+    </line>
+    <line>
+      <id>1</id>
+      <first_name>Иван</first_name>
+      <last_name>Иванов</last_name>
+      <second_name>Иванович</second_name>
+      <date_of_birth>26.05.1999 0:00:00</date_of_birth>
+      <driving_exp>1</driving_exp>
+    </line>
+  </data>
+</root>

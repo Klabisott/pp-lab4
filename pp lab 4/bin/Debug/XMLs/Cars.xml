@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <header>
+    <id>ID</id>
+    <car_name>Название машины</car_name>
+    <year>Год выпуска</year>
+    <mileage>Пробег</mileage>
+    <tank_volume>Размер бака, л</tank_volume>
+    <seats>Кол-во сидений</seats>
+  </header>
+  <data>
+    <line>
+      <id>1</id>
+      <car_name>Lada</car_name>
+      <year>2012</year>
+      <mileage>20000</mileage>
+      <tank_volume>55</tank_volume>
+      <seats>4</seats>
+    </line>
+    <line>
+      <id>2</id>
+      <car_name>KIA</car_name>
+      <year>2015</year>
+      <mileage>30000</mileage>
+      <tank_volume>60</tank_volume>
+      <seats>4</seats>
+    </line>
+  </data>
+</root>

@@ -1,0 +1,38 @@
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\bin\Debug\pp lab 3.exe.config
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\bin\Debug\pp lab 3.exe
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\bin\Debug\pp lab 3.pdb
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 4.csproj.AssemblyReference.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\MainWindow.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\Result.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\TableView.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\App.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 3_MarkupCompile.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 3_MarkupCompile.lref
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\MainWindow.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\Result.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\TableView.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 3.g.resources
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp_lab_3.Properties.Resources.resources
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 4.csproj.GenerateResource.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 3.exe
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 3\obj\Debug\pp lab 3.pdb
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.csproj.AssemblyReference.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\MainWindow.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\Result.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\TableView.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\App.g.cs
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\MainWindow.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\Result.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\TableView.baml
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.csproj.GenerateResource.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp_lab_4.Properties.Resources.resources
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\bin\Debug\pp lab 4.exe.config
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\bin\Debug\pp lab 4.exe
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\bin\Debug\pp lab 4.pdb
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4_MarkupCompile.cache
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4_MarkupCompile.lref
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.g.resources
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.exe
+C:\Users\Klabisot\source\repos\pp-lab3-main\pp lab 4\obj\Debug\pp lab 4.pdb

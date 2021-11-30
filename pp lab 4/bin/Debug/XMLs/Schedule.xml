@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <header>
+    <id>ID</id>
+    <car_id>Автомобиль</car_id>
+    <driver_id>Водитель</driver_id>
+    <start_date>Начало смены</start_date>
+    <end_date>Конец смены</end_date>
+  </header>
+  <data>
+    <line>
+      <id>0</id>
+      <car_id>1</car_id>
+      <driver_id>0</driver_id>
+      <start_date>02.11.2021 9:00:00</start_date>
+      <end_date>02.11.2021 17:00:00</end_date>
+    </line>
+    <line>
+      <id>1</id>
+      <car_id>1</car_id>
+      <driver_id>0</driver_id>
+      <start_date>03.11.2021 9:00:00</start_date>
+      <end_date>03.11.2021 15:30:00</end_date>
+    </line>
+    <line>
+      <id>2</id>
+      <car_id>2</car_id>
+      <driver_id>1</driver_id>
+      <start_date>02.11.2021 11:00:00</start_date>
+      <end_date>02.11.2021 19:00:00</end_date>
+    </line>
+  </data>
+</root>
